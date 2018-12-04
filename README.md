@@ -9,4 +9,8 @@ i have scaffolded Web API controllers with full Create-Read-Update-Delete functi
 
 tables : items and stores
 
-git hub link : 
+git hub link :  https://github.com/Honey23/Part3
+
+azure link : https://part3.azurewebsites.net
+
+
