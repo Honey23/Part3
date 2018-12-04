@@ -13,4 +13,4 @@ git hub link :  https://github.com/Honey23/Part3
 
 azure link : https://part3.azurewebsites.net
 
-
+(i have deployed my gitcode to my azure site but it does not link with database and shows blank page)
